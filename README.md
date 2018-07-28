@@ -12,7 +12,7 @@ sudo yum install httpd  git
 
 
 
-git clone http://github.com/justindavies/baciad
+git clone https://github.com/rahulisongithub/baciad.git
 
 cd baciad
 
